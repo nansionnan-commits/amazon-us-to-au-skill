@@ -1,0 +1,23 @@
+{
+ "WBXZ-261022-FUR-PARENT-AU": {
+  "asin": "B0HNWTQT43",
+  "status": [
+   "DISCOVERABLE"
+  ],
+  "codes": {}
+ },
+ "WBXZ-261022-FUR-2PC-AU": {
+  "asin": null,
+  "status": null,
+  "codes": {
+   "100521": 1
+  }
+ },
+ "WBXZ-261022-FUR-1PC-AU": {
+  "asin": null,
+  "status": null,
+  "codes": {
+   "100521": 1
+  }
+ }
+}
