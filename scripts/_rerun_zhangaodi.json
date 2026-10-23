@@ -1,0 +1,38 @@
+{
+ "74-2RD3-3196-AU": {
+  "asin": "B0HNP2CDQN",
+  "status": [
+   "DISCOVERABLE"
+  ],
+  "codes": {}
+ },
+ "2E-NLUN-6SAU-AU": {
+  "asin": "B0HNPBN653",
+  "status": [
+   "DISCOVERABLE"
+  ],
+  "codes": {
+   "100476": 1,
+   "100521": 1
+  }
+ },
+ "TZ-FWXS-ZE3E-AU": {
+  "asin": "B0HNPDXP5N",
+  "status": [
+   "DISCOVERABLE"
+  ],
+  "codes": {
+   "100476": 1,
+   "100521": 1
+  }
+ },
+ "K8-6G8X-9OGJ-AU": {
+  "asin": "B0HNP9S5R5",
+  "status": [
+   "DISCOVERABLE"
+  ],
+  "codes": {
+   "100521": 1
+  }
+ }
+}
